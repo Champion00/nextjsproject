@@ -10,7 +10,7 @@ const transition = {
   damping: 11.5,
   stiffness: 100,
   restDelta: 0.001,
-  restSpeed: 0.001,
+  restSpeed: 0.002,
 };
 
 export const MenuItem = ({
