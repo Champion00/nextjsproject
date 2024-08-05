@@ -14,7 +14,7 @@ function HeroSection() {
           join us to unlock your true potential.
         </p>
         <div className="mt-4">
-          <Link href={"/courses"}>Explore courses</Link>
+          <Link href={"/coursess"}>Explore courses</Link>
         </div>
       </div>
     </div>
